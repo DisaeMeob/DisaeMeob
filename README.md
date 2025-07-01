@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**DisaeMeob/DisaeMeob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Привет, я Александр — начинающий разработчик Telegram-ботов!
 
-Here are some ideas to get you started:
+💡 Увлекаюсь автоматизацией и созданием полезных Telegram-ботов для бизнеса и личных проектов.  
+💼 Уже реализовал Telegram-ботов с:
+- базами данных SQLite
+- фотопоиском и загрузкой фото
+- админ-панелью и рассылками
+- интеграцией с внешними API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Основной стек:
+- Python 3.10
+- Aiogram 2.25.1
+- SQLite
+- Git / GitHub
+- SQL
+- Replit
+- VSCode
+
+📂 Примеры проектов:
+- iyoka_shop_bot — Telegram-бот магазина одежды
+- Опросник-бот — FSM, сохранение ответов, статистика
+- Бот с OpenWeather API — погода по городу
+
+📫 Telegram для связи: [@feaagff](https://t.me/feaagff)
+
+🚀 В ближайших планах:
+- Пройти путь до фриланса и начать зарабатывать на заказах
+- Развивать Telegram-проекты и улучшать навыки backend-разработки
+
+🙏 Спасибо, что заглянули! Посмотрите репозитории ниже 👇
